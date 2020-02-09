@@ -1,0 +1,11 @@
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\obj\Debug\netcoreapp3.1\200127-Exo2.csprojAssemblyReference.cache
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\obj\Debug\netcoreapp3.1\200127-Exo2.AssemblyInfoInputs.cache
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\obj\Debug\netcoreapp3.1\200127-Exo2.AssemblyInfo.cs
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\bin\Debug\netcoreapp3.1\200127-Exo2.exe
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\bin\Debug\netcoreapp3.1\200127-Exo2.deps.json
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\bin\Debug\netcoreapp3.1\200127-Exo2.runtimeconfig.json
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\bin\Debug\netcoreapp3.1\200127-Exo2.runtimeconfig.dev.json
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\bin\Debug\netcoreapp3.1\200127-Exo2.dll
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\bin\Debug\netcoreapp3.1\200127-Exo2.pdb
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\obj\Debug\netcoreapp3.1\200127-Exo2.dll
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200127-Exo2\obj\Debug\netcoreapp3.1\200127-Exo2.pdb

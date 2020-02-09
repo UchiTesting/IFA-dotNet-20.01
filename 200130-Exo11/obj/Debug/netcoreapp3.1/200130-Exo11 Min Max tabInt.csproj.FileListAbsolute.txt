@@ -1,0 +1,11 @@
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\bin\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.exe
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\bin\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.deps.json
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\bin\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.runtimeconfig.json
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\bin\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.runtimeconfig.dev.json
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\bin\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.dll
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\bin\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.pdb
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\obj\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.AssemblyInfoInputs.cache
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\obj\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.AssemblyInfo.cs
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\obj\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.dll
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\obj\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.pdb
+D:\Partages\Online\Asus Webstorage\IFA\dotNet\Solutions\2001-Apps\200130-Exo11\obj\Debug\netcoreapp3.1\200130-Exo11 Min Max tabInt.csprojAssemblyReference.cache
