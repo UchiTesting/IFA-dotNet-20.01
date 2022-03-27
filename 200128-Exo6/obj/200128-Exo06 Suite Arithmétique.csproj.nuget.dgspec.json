@@ -1,36 +1,37 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Partages\\Online\\Asus Webstorage\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\200128-Exo06 Suite Arithmétique.csproj": {}
+    "E:\\Documents\\俺の手紙\\プロ\\Travail\\Education\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\200128-Exo06 Suite Arithmétique.csproj": {}
   },
   "projects": {
-    "D:\\Partages\\Online\\Asus Webstorage\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\200128-Exo06 Suite Arithmétique.csproj": {
+    "E:\\Documents\\俺の手紙\\プロ\\Travail\\Education\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\200128-Exo06 Suite Arithmétique.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Partages\\Online\\Asus Webstorage\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\200128-Exo06 Suite Arithmétique.csproj",
+        "projectUniqueName": "E:\\Documents\\俺の手紙\\プロ\\Travail\\Education\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\200128-Exo06 Suite Arithmétique.csproj",
         "projectName": "200128-Exo06 Suite Arithmétique",
-        "projectPath": "D:\\Partages\\Online\\Asus Webstorage\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\200128-Exo06 Suite Arithmétique.csproj",
-        "packagesPath": "C:\\Users\\EminoMeneko\\.nuget\\packages\\",
-        "outputPath": "D:\\Partages\\Online\\Asus Webstorage\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\obj\\",
+        "projectPath": "E:\\Documents\\俺の手紙\\プロ\\Travail\\Education\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\200128-Exo06 Suite Arithmétique.csproj",
+        "packagesPath": "C:\\Users\\UchiTesting\\.nuget\\packages\\",
+        "outputPath": "E:\\Documents\\俺の手紙\\プロ\\Travail\\Education\\IFA\\dotNet\\Solutions\\20.01-Apps\\200128-Exo6\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "E:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "E:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\EminoMeneko\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\UchiTesting\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp2.1"
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
             "projectReferences": {}
           }
         },
@@ -42,6 +43,7 @@
       },
       "frameworks": {
         "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
           "dependencies": {
             "Microsoft.NETCore.App": {
               "suppressParent": "All",
@@ -60,7 +62,7 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
