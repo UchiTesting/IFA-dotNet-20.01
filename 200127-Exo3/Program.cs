@@ -1,34 +1,25 @@
 ﻿using System;
+using System.Linq;
 
-namespace _200127_Exo3
+namespace _200127_Exo3;
+
+class Program
 {
-    class Program
+
+    static void Main(string[] args)
     {
+        Console.WriteLine("Exo 3: Pallindrome.\n========\n");
+        Console.Write("Veuillez saisir un mot ou une chaine de caracteres: ");
+        string saisie = Console.ReadLine();
 
-        static void Main(string[] args)
-        {
-            bool DEBUG = false;
-            Console.WriteLine("Exo 3: Pallindrome.\n========\n");
-            Console.Write("Veuillez saisir un mot ou une chaine de caracteres: ");
-            string saisie = Console.ReadLine();
+        Console.WriteLine($"{saisie} <=> {reverseString(saisie)}");
 
-            if (reverseString(saisie).Equals(saisie))
-            {
-                Console.WriteLine(saisie + " est un pallindrome.");
-            } else
-            {
-                Console.WriteLine(saisie + " n'est pas un pallindrome.");
-            }
-            if (DEBUG)
-               Console.WriteLine(string.Format("s: {0}, r: {1}", saisie, reverseString(saisie)));
-        }
-
-        static string reverseString(string str)
-        {
-            char[] strArray = str.ToCharArray();
-            Array.Reverse(strArray);
-
-            return new string(strArray);
-        }
+        if (reverseString(saisie).Equals(saisie))
+            Console.WriteLine(saisie + " est un pallindrome.");
+        else
+            Console.WriteLine(saisie + " n'est pas un pallindrome.");
     }
+
+    static string reverseString(string str) 
+        => new string(str.Reverse().ToArray());
 }
